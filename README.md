@@ -1,3 +1,6 @@
+"You can build great software, if and only if you love it enough" - Vik.
+
+
 Business (Vik)
 
 Human Resources (Quizmine LLC(Director-Products) 2009-11):
