@@ -1,0 +1,173 @@
+form {
+   display: none;
+}
+
+#scores {
+   margin: 12px 0;
+}
+
+#proficiencies {
+   margin: 12px 0;
+}
+
+#understanding {
+}
+
+#improve {
+   margin-top: 16px;
+}
+
+#improve ul.notes {
+   margin-top: 8px;
+}
+
+#improve ul.notes li {
+   font-size: 100%;
+}
+
+#speed {
+   margin-top: 16px;
+}
+
+#correspondence {
+   margin-top: 16px;
+}
+
+#correspondence p {
+   margin: 1em 0;
+}
+
+#correspondence td.correspname {
+   vertical-align: middle;
+}
+
+#correspondence table.std p {
+   margin: 0.8em 0;
+}
+
+#proficiencies *, #understanding *, #language *, #summary2a *, #summary2b *, #improve *, #correspondence * {
+   line-height: 1.15em;
+}
+
+
+/* specific styles for the standard table layout */
+table.std td.headg {
+   font-family: Arial, Helvetica, sans-serif;
+   text-transform: uppercase;
+   white-space: nowrap;
+   font-size: 13px;
+   font-weight: bold;
+   color: #123568;
+   background-color: #123568;
+   padding: 4px 0 4px 34px;
+   text-align: left;
+   border-bottom: 1px solid #000000;
+}
+table.std td.scorel {
+   border-right: 1px solid #000000;
+   padding: 0 5px;
+   text-align: left;
+   line-height: 1em;
+}
+table.std td.scorev {
+   border-right: 1px solid #000000;
+   padding: 0 5px;
+   text-align: center;
+   font-family: "Courier New", Courier, mono;
+   font-weight: bold;
+}
+table.std td.scoreg {
+   padding: 0 0 0 41px;
+   text-align: left;
+   height: 33px;
+}
+
+.scorebox {
+   background-color: #123568;
+}
+
+/* score graph images */
+div.scalefrm {
+   position: relative;
+   height: 33px;
+   border: none;
+   padding: 0;
+}
+img.scalebg {
+   position: absolute;
+   height: 33px;
+   width: 350px;
+   top: 0;
+   left: 0;
+}
+img.scorebar {
+   position: absolute;
+   top: 7px;
+   left: 0;
+   border: 1px solid #000000;
+   height: 17px;
+}
+
+img.gapper {
+    height: 33px;
+    width: 1px;
+}
+
+/* text styles */
+.correspval {
+   font-weight: bold;
+}
+
+/* override general */
+table.score {
+    margin-bottom: 0;
+}
+
+div.sec {
+   width: 657px;
+   margin: 6px 0;
+}
+
+table.std {
+   width: 657px;
+   margin-bottom: 5px;
+}
+
+div.head1 {
+   margin: 6px 0;
+}
+
+ul.notes {
+   margin-top: 5px;
+}
+
+#speed table.std {
+   width: 480px;
+}
+#speed table.std td.p {
+   padding: 15px 40px;
+   width: 50%;
+   text-align: center;
+}
+
+div.practice img.seal {
+   visibility: hidden;
+}
+
+img.practice {
+   position: absolute;
+   top: 250px;
+   left: 75px;
+   opacity: 0.75;
+   -moz-opacity: 0.75;
+   filter: alpha(opacity=75);
+   z-index: 10;
+}
+
+div.header-print {
+   position: relative;
+}
+
+div.footer {
+   position: relative;
+}

@@ -1,0 +1,118 @@
+form {
+   display: none;
+}
+
+#scores { }
+
+#proficiencies { }
+
+#understanding { }
+
+#improve { }
+
+#speed {
+   margin-top: 20px;
+}
+
+#correspondence { }
+
+#correspondence td.correspname {
+   vertical-align: middle;
+}
+
+/* specific styles for the standard table layout */
+table.std td.headl {
+   width: auto;
+}
+table.std td.headg {
+   font-family: Arial, Helvetica, sans-serif;
+   text-transform: uppercase;
+   white-space: nowrap;
+   font-size: 13px;
+   font-weight: bold;
+   color: #FFFFFF;
+   background-color: #123568;
+   padding: 4px 8px 4px 43px;
+   text-align: left;
+   border-bottom: 1px solid #000000;
+   width: 400px;
+}
+table.std td.scorel {
+   border-right: 1px solid #000000;
+   padding: 0 8px;
+   text-align: left;
+}
+table.std td.scorev {
+   border-right: 1px solid #000000;
+   padding: 0 8px;
+   text-align: center;
+   font-family: "Courier New", Courier, mono;
+   font-weight: bold;
+}
+table.std td.scoreg {
+   padding: 0 0 0 50px;
+   text-align: left;
+   height: 41px;
+}
+
+.scorebox {
+   background-color: #123568;
+}
+
+/* score graph images */
+div.scalefrm {
+   position: relative;
+   height: 41px;
+   border: none;
+   padding: 0;
+}
+img.scalebg {
+   position: absolute;
+   height: 41px;
+   width: 350px;
+   top: 0;
+   left: 0;
+}
+img.scorebar {
+   position: absolute;
+   top: 10px;
+   left: 0;
+   border: 1px solid #000000;
+   height: 19px;
+}
+
+img.gapper {
+    height: 41px;
+    width: 1px;
+}
+
+/* text styles */
+.correspval {
+   font-weight: bold;
+}
+
+div.head1 {
+   margin: 6px 0;
+}
+
+#speed table.std {
+   width: 480px;
+}
+#speed table.std td.p {
+   padding: 15px 40px;
+   width: 50%;
+   text-align: center;
+}
+
+div.practice img.seal {
+   visibility: hidden;
+}
+
+img.practice {
+   top: 300px;
+   z-index: 10;
+}
+
+div.footer {
+   position: relative;
+}

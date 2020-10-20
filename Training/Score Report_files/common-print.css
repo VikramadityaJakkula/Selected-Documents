@@ -1,0 +1,24 @@
+table.footer {
+   width:100%;
+}
+
+td.footer-logo {
+   width: 160px;
+}
+
+td.footer-logo img {
+   width: 160px;
+}
+
+td.footer-copy {
+   text-align: center;
+   padding: 10px;
+}
+
+td.footer-seal {
+   width: 120px;
+}
+
+td.footer-seal img {
+   width: 120px;
+}
