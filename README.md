@@ -1,5 +1,7 @@
 "You can build great software, if and only if you love it enough" - Vik.
 
+https://site-3147449-4342-6874.mystrikingly.com/
+
 
 Business (Vik)
 
