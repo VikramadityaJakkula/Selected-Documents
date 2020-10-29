@@ -2,6 +2,8 @@
 
 https://site-3147449-4342-6874.mystrikingly.com/
 
+https://www.scribd.com/document/482045048/Vikramaditya-CV
+
 
 Business (Vik)
 
