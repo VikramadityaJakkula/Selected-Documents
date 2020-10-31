@@ -1,0 +1,12 @@
+Just have to do this:
+//For images:
+foreach (HtmlElement img in youWebControl.Document.Images)
+{
+   // do something with image info
+   string src = img.GetAttribute("SRC");
+}
+// For links:
+foreach (HtmlElement link in youWebControl.Document.Links)
+{
+   // do something with link info
+   string href = link.GetAttribute("HREF");
