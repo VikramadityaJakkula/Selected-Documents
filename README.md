@@ -4,6 +4,7 @@ https://site-3147449-4342-6874.mystrikingly.com/
 
 https://www.scribd.com/document/482045048/Vikramaditya-CV
 
+https://drive.google.com/file/d/1Qh2aEYnueelCXrWy1ATG2UvJK7jvApjB/view?usp=sharing
 
 Business (Vik)
 
