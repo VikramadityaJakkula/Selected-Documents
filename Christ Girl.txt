@@ -130,6 +130,27 @@ Ezekiel Elliott
 Todd Gurley
 Khalil Mack
 Kyler Murray
+Zack Moss
+Gabriel Davis
+Ty Nsekhe
+Daryl Williams
+Mario Addison
+Tremaine Edmunds
+Levi Wallace
+Dean Marlowe
+Jaquan Johnson
+Siran Neal
+Mack Hollins
+DeAndre Washington
+Solomon Kindley
+Austin Jackson
+Adam Pankey
+Emmanuel Ogbah
+Xavien Howard
+Kavon Frazier
+Jamal Perry
+Noah Igbinoghene
+Sam Eguavoen
 
 
 GirlName   RoomNo   Location
