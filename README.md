@@ -2,9 +2,9 @@
 
 
 # Link:
-1. https://site-3147449-4342-6874.mystrikingly.com/
-2. https://www.scribd.com/document/482045048/Vikramaditya-CV
-3. https://drive.google.com/file/d/1Qh2aEYnueelCXrWy1ATG2UvJK7jvApjB/view?usp=sharing
+1. [Website](https://site-3147449-4342-6874.mystrikingly.com/)
+2. [Resume](https://www.scribd.com/document/482045048/Vikramaditya-CV)
+3. [File](https://drive.google.com/file/d/1Qh2aEYnueelCXrWy1ATG2UvJK7jvApjB/view?usp=sharing)
 
 
 # Business (Vik)
@@ -12,15 +12,15 @@
 ## Human Resources (Quizmine LLC(Director-Products) 2009-11):
 1. Hired/Fired 70+ Candidates in India for software Development, Web Apps, Mobile Apps, Content Writers, Designers, Interns
 2. Resume Screening, Interview, Salary & Accounting, and more including Processes such as onboarding, NDA, etc.
-3. Virtual Employment: Full time, Part time(from companies such as QUALCOMM, etc.)[Sample Report]
-4. [Talentsprint] Report to VP HR on Improving Quality and Brand [Index of Report]
+3. Virtual Employment: Full time, Part time(from companies such as QUALCOMM, etc.)[Sample Report](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/HR)
+4. [Talentsprint] Report to VP HR on Improving Quality and Brand [Index of Report](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/HR)
 
 ## Marketing & Advertising(ICFAI (Report to Chairman)2014-15):
 1. Digital Marketing: Ad words, YouTube videos, Instagram, and other
 2. Advertising: Both online and offline
-3. [3 Months Effort to gather data] Table I - Potential Student Analysis
-4. Table II - Advertising and Branding
-5. Website Analysis Criteria
+3. [3 Months Effort to gather data] [Table I - Potential Student Analysis](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/MarketingAdvertising)
+4. [Table II - Advertising and Branding](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/MarketingAdvertising)
+5. [Website Analysis Criteria](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/MarketingAdvertising)
  
 ## Finance (Talentsprint (Reported to VP) 2016-17):
 1. Sales Improvement based on Finance and Courses Data
