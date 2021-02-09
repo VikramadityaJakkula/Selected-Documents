@@ -40,6 +40,10 @@
 2. [Microsoft Best student Advocate of India 2004](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/Training)
 3. [Versant Test 2016 70/70](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/Training)
 
+## Customer Service (2013-2014 AMZN):
+1. Handled 10000+ customers
+2. Subject Matter Expert
+
 ## Evangelism (2003-2006 MSFT, india usa)
 1. [200+ COLLEGES IN AP WITH 25000+ STUDENTS REACH and 3500 students online](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/bho)
 2. managed 3 student ambassadors and 50+ champs.
