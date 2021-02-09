@@ -49,9 +49,9 @@
 # Software (Vik)
 
 ## Product/Project Management: (at Quizmine,Microsoft,Dataminingtools Inc)
-1. Sample Products Plan V1
+1. [Sample Products Plan V1](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/presentation)
 2. Sample of Reporting Format
-3. Conceptualization & Complete Planning
+3. [Conceptualization & Complete Planning](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/blob/main/presentation/003.pdf)
 
 
 ## Software Projects (Selected):
@@ -62,7 +62,7 @@
 
 ## Mobile App Surveys & Features(Selected):
 
-1. Battery Apps
+1. [Battery Apps](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/App%20Survey)
 2. Heart Rate Monitor
 3. Call log Monitor
 4. Compass Apps
