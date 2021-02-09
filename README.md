@@ -2,18 +2,18 @@
 
 
 # Link:
-https://site-3147449-4342-6874.mystrikingly.com/
-https://www.scribd.com/document/482045048/Vikramaditya-CV
-https://drive.google.com/file/d/1Qh2aEYnueelCXrWy1ATG2UvJK7jvApjB/view?usp=sharing
+1. https://site-3147449-4342-6874.mystrikingly.com/
+2. https://www.scribd.com/document/482045048/Vikramaditya-CV
+3. https://drive.google.com/file/d/1Qh2aEYnueelCXrWy1ATG2UvJK7jvApjB/view?usp=sharing
 
 
 # Business (Vik)
 
 ## Human Resources (Quizmine LLC(Director-Products) 2009-11):
-Hired/Fired 70+ Candidates in India for software Development, Web Apps, Mobile Apps, Content Writers, Designers, Interns
-Resume Screening, Interview, Salary & Accounting, and more including Processes such as onboarding, NDA, etc.
-Virtual Employment: Full time, Part time(from companies such as QUALCOMM, etc.)[Sample Report]
-[Talentsprint] Report to VP HR on Improving Quality and Brand [Index of Report]
+1. Hired/Fired 70+ Candidates in India for software Development, Web Apps, Mobile Apps, Content Writers, Designers, Interns
+2. Resume Screening, Interview, Salary & Accounting, and more including Processes such as onboarding, NDA, etc.
+3. Virtual Employment: Full time, Part time(from companies such as QUALCOMM, etc.)[Sample Report]
+4. [Talentsprint] Report to VP HR on Improving Quality and Brand [Index of Report]
 
 ## Marketing & Advertising(ICFAI (Report to Chairman)2014-15):
 Digital Marketing: Ad words, YouTube videos, Instagram, and other
