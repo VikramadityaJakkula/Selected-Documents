@@ -34,7 +34,7 @@
 ## Real Estate (2012 & 2018):
 1. [Practices and Observations in Small Scale Real Estate Markets](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/RealEstate)
 
-## Skills:
+## Training Skills:
 
 1. [Microsoft Certified Trainer 2005-2006](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/Training)
 2. [Microsoft Best student Advocate of India 2004](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/Training)
