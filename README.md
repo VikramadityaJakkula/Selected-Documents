@@ -22,26 +22,26 @@
 4. [Table II - Advertising and Branding](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/MarketingAdvertising)
 5. [Website Analysis Criteria](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/MarketingAdvertising)
  
-## Finance (Talentsprint (Reported to VP) 2016-17):
+## Sales & Finance (Talentsprint (Reported to VP) 2016-17):
 1. Sales Improvement based on Finance and Courses Data
 2. Process Improvement(Cash Collections) + Documentation
 3. NSDC Data Collection for Quality got 5 star rating from Director
-4. [1 Months Effort for all data] Sample Analysis Report Presentation
+4. [1 Months Effort for all data] [Sample Analysis Report Presentation](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/Finance)
 
 ## Hospitality Management (Personal Interest):
-1. Strategies for Hospitality Management
+1. [Strategies for Hospitality Management](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/Hospitality)
 
-## Real Estate (Worked for my Uncle, 2012 & 2018):
-1. Practices and Observations in Small Scale Real Estate Markets
+## Real Estate (2012 & 2018):
+1. [Practices and Observations in Small Scale Real Estate Markets](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/RealEstate)
 
 ## Skills:
 
-1. Microsoft Certified Trainer 2005-2006
-2. Microsoft Best student Advocate of India 2004
-3. Versant Test 2016 70/70
+1. [Microsoft Certified Trainer 2005-2006](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/Training)
+2. [Microsoft Best student Advocate of India 2004](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/Training)
+3. [Versant Test 2016 70/70](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/Training)
 
 ## Evangelism (2003-2006 MSFT, india usa)
-1. 200+ COLLEGES IN AP WITH 25000+ STUDENTS REACH and 3500 students online
+1. [200+ COLLEGES IN AP WITH 25000+ STUDENTS REACH and 3500 students online](https://github.com/VikramadityaJakkula/Selected-Documents-No-Babies-Not-Married/tree/main/bho)
 2. managed 3 student ambassadors and 50+ champs.
 3. conducted many events online and offline, monthly and yearly and so on.
 
